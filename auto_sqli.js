@@ -1,1 +1,1 @@
-document.write('Hello World'); 
+alert('Auto Sqli By Mohammad Ripon'); 
